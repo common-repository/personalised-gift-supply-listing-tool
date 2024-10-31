@@ -1,0 +1,185 @@
+
+.menu-icon-pgs_products .wp-first-item {
+    display:none;    
+}
+.cnc_special_title{
+    margin-bottom : 50px;    
+}
+
+.post-type-pgs_products table tr th#listed,s
+.post-type-pgs_products table tr td.listed.column-listed{
+    width:10%;
+}
+.menu-icon-pgs_products img {
+    max-width: 15px;
+    padding-top: 12px !important;
+}
+
+.cnc_b2b_faq,
+.cnc_b2b_howtouse,
+.cnc_b2b_order_settings_page,
+.cnc_b2b_settings_page {
+    padding: 10px;
+    background: white;
+    border-radius: 10px;
+    margin: 30px 0px;
+    display: table;
+    width: 85%;
+}
+.cnc_b2b_settings_page .token_input textarea{
+    width:100%;
+    height: 100px;
+}
+.cnc_b2b_settings_page .pgs_col{
+    width: 50%;
+    float: left;
+}
+.order_sync_coustom_box .order_sync_manully{
+    width: 100%;
+    height: 50px;
+}
+.order_sync_coustom_box .order_sync_checkack_box {
+    padding-bottom: 20px;
+}
+.cnc_b2b_order_settings_page .pgs_button,
+.cnc_b2b_settings_page .pgs_button {
+    width: 100%;
+    height: 50px;
+    float: left;
+}
+
+.cnc_b2b_settings_page .info_section{
+    width: 100%;
+    display: inline-block;
+}
+.cnc_b2b_margin_pricing .cnc_b2b_margin_error {
+    color: red;
+}
+.cnc_b2b_settings_page .info_section input{
+    padding: 5px;
+    width: 50%;
+    border-radius: 3px;
+}
+.order_sync_coustom_box .order_sync_manully .order_sync_manully_button,
+.cnc_b2b_order_settings_page .pgs_button input[type="submit"],
+.cnc_b2b_settings_page .pgs_button input[type="submit"]{
+    height: 35px;
+    background: #0073aa;
+    color: white;
+    width: 150px;
+    border-radius: 3px;
+    border: none;
+    cursor: pointer;
+}
+.cnc_b2b_order_settings_page .not_allowed{
+	cursor: not-allowed !important;
+}
+.cnc_b2b_order_settings_page .order_type_wrap {
+    margin-bottom: 20px;
+}
+.cnc_b2b_settings_page .token_and_varification {
+    width: 100%;
+}
+.cnc_b2b_settings_page .varification_wrapper,
+.cnc_b2b_settings_page .varification_button{
+    float:left;
+}
+.order_sync_manully_button:disabled {
+  background: #206e93 !important;
+  cursor: not-allowed !important;
+}
+.cnc_b2b_settings_page .product_sync{   
+    padding: 10px 20px;
+    border: 1px solid green;
+    margin: 10px 0px;
+    font-size: 18px;
+    color: green;
+    width:50%;
+    font-weight: 500;
+    background: #c4dbc4;
+}
+.cnc_b2b_settings_page .varification_wrapper{
+    padding: 8px;
+}
+.cnc_b2b_settings_page .varification_wrapper .varification.varification-true {
+    padding: 0px 8px;
+    background: green;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.cnc_b2b_settings_page .varification_wrapper .varification.varification-false {
+    padding: 0px 8px;
+    background: red;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.order_tracking_Info {
+    padding-bottom: 10px;
+}
+.order_tracking_Info label {
+    font-size: 16px;
+}
+.cnc_b2b_action_buttons .cnc_b2b_action{
+    width: max-content;
+    float : left;
+    padding: 2px;
+}
+
+.cnc_b2b_action_buttons .cnc_b2b_link_button {
+    background-color: #0073aa;
+    color: white;
+    padding: 5px 10px;
+    margin: 0px 5px 0 0;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.cnc_b2b_product_listed .listed_with_wooconnerce{
+    background: green;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+.cnc_b2b_product_listed .not_listed_with_wooconnerce{
+    background: red;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+
+.cnc_b2b_howtouse .howto_video{
+	text-align: center;
+    margin: 50px 0px;
+}
+
+.cnc_b2b_howtouse .howto_guide_info{
+	padding : 20px;
+}
+
+.cnc_b2b_accoding_wapper .accoding_item .accoding_body{
+	display : none;
+}
+.cnc_b2b_accoding_wapper .accoding_item{
+    border: 1px solid;
+    margin-bottom : 1px;
+}
+.cnc_b2b_accoding_wapper .accoding_header {
+    padding: 0px 15px;
+    
+    cursor: pointer;
+}
+.cnc_b2b_accoding_wapper .accoding_body p{
+	padding: 0px 15px;
+}
+.cnc_b2b_accoding_wapper .accoding_header .accoding_title{
+	float : left;
+	width: 97%;
+}
+.cnc_b2b_accoding_wapper .accoding_header .accoding_img img{
+	height : 50px;
+}
+.cnc_b2b_accoding_wapper .accoding_header.active .accoding_img img{
+	transform : rotate(45deg);
+}

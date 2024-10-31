@@ -1,0 +1,581 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Personalised Gift Supply - Listing Tool\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-06-05 12:12+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: cnc-b2b"
+
+#: includes/how_to.php:28
+msgid ""
+" Navigate to “Product List” here you will see all products you have added to "
+"your favourites and are available to be listed on your site, to list a "
+"product click “List Product” This will\n"
+"                take you to the product page where all required information "
+"has been auto filled for you, you can even see what profit you’re making at "
+"the bottom of the page, if you would like to make more or less, simply "
+"change your “Regular Price”, the\n"
+"                only thing left to do is assign it to the category you want "
+"it in on your website and click “Publish”"
+msgstr ""
+
+#: includes/customiser.php:17
+msgid " of the same item,"
+msgstr ""
+
+#: includes/settings.php:97
+msgid " Product Synchronize with Personalise Gift Suppy Successfully ... "
+msgstr ""
+
+#: includes/settings.php:134
+msgid " Validation Fail"
+msgstr ""
+
+#: includes/customiser.php:298
+msgid "(not selected)"
+msgstr ""
+
+#: includes/faqs.php:84
+msgid "Absolutely, if you email us on"
+msgstr ""
+
+#: includes/order_settings.php:142
+msgid "Actions Left. "
+msgstr ""
+
+#. Author of the plugin
+msgid "Akshar Soft Solutions"
+msgstr ""
+
+#: includes/customiser.php:42
+msgid "All text will be centralised"
+msgstr ""
+
+#: includes/faqs.php:71
+msgid ""
+"Although every effort is taken to ensure we are apply to supply a constant "
+"supply of products, we do however, sometimes have supply chain issues. "
+"However, if we ever run out of stock on an item, the product will "
+"automatically be taken\n"
+"                    out of stock on your website to ensure you don`t sell "
+"any items we don`t have in stock."
+msgstr ""
+
+#: includes/faqs.php:47
+msgid ""
+"and one of our friendly representatives will happily help, if you need an "
+"urgent answer you can call on 0800 069 9414."
+msgstr ""
+
+#: includes/how_to.php:10
+msgid "and we’ll get you started"
+msgstr ""
+
+#: includes/settings.php:115
+msgid "Api Key :"
+msgstr ""
+
+#: includes/order_settings.php:90
+msgid "Automatically process mixed orders"
+msgstr ""
+
+#: includes/order_settings.php:73 includes/order_settings.php:180
+msgid "Automatically Process Orders"
+msgstr ""
+
+#: includes/order_settings.php:79
+msgid "Automictically Process Orders"
+msgstr ""
+
+#: includes/customiser.php:17
+msgid "but with different customised text."
+msgstr ""
+
+#: includes/order_settings.php:85
+msgid ""
+"By default this is unticked, if you sell a mix of our products and your own, "
+"when ticked this will mark the order as complete once we have processed the "
+"order from our side"
+msgstr ""
+
+#: includes/faqs.php:79
+msgid "Can I create my own designs and sell them on your products?"
+msgstr ""
+
+#: includes/customiser.php:294
+msgid "Clip Art"
+msgstr ""
+
+#: includes/customiser.php:126 includes/customiser.php:418
+msgid "Confirm Customisation"
+msgstr ""
+
+#: includes/faqs.php:47
+msgid "Contact us on"
+msgstr ""
+
+#: includes/order_settings.php:164
+msgid "Custom Margin"
+msgstr ""
+
+#: includes/order_settings.php:153
+msgid ""
+"Custom Margin - This will allow you to set your own margin, after this has "
+"been selected you will need to click save which will enable two extra fields "
+"\"Margin\" and \"Deduct from pricing\" once your margin has been set your "
+"products will be rounded up to the nearest pound you can then set the value "
+"you wish to deduct from the price, for example you wish for your products to "
+"round to the nearest 99p you would select 0.01 in this field."
+msgstr ""
+
+#: includes/customiser.php:189
+msgid "Customise Your Gift"
+msgstr ""
+
+#: includes/customiser.php:69
+msgid "Customise Your Product"
+msgstr ""
+
+#: includes/order_settings.php:120
+msgid "Decorated Glassware"
+msgstr ""
+
+#: includes/order_settings.php:190
+msgid "Deduct from pricing : "
+msgstr ""
+
+#: includes/order_settings.php:56
+msgid ""
+"Default setting is \"Processing\" which will only send an order through to "
+"us when the order is paid"
+msgstr ""
+
+#: includes/order_settings.php:101
+msgid "Enabled"
+msgstr ""
+
+#: includes/faqs.php:2
+msgid "FAQs"
+msgstr ""
+
+#: includes/customiser.php:24
+msgid "Font"
+msgstr ""
+
+#: includes/customiser.php:255
+msgid "Font Choice"
+msgstr ""
+
+#: includes/settings.php:151
+msgid "for your API key."
+msgstr ""
+
+#: includes/customiser.php:413
+msgid "Have you double-checked your personalised details? "
+msgstr ""
+
+#: includes/order_settings.php:150
+msgid "Here you`re able to state how you would like your products priced."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://aksharsoftsolutions.com/"
+msgstr ""
+
+#: includes/faqs.php:54
+msgid ""
+"I have a customer asking for a bulk order, what`s the best way to proceed?"
+msgstr ""
+
+#: includes/faqs.php:42
+msgid ""
+"I have a customer with a broken, defective or incorrect item, what do I do?"
+msgstr ""
+
+#: includes/order_settings.php:74
+msgid ""
+"If this is ticked your orders will automatically be updated to completed "
+"once the order has been dispatched from Personalised Gift Supply."
+msgstr ""
+
+#: includes/customiser.php:17
+msgid "If you require"
+msgstr ""
+
+#: includes/how_to.php:39
+msgid ""
+"If you would like more advanced information on order processing and syncing, "
+"please see FAQ."
+msgstr ""
+
+#: includes/customiser.php:115
+msgid "Image Upload"
+msgstr ""
+
+#: includes/order_settings.php:125 includes/order_settings.php:130
+msgid "Import All ?"
+msgstr ""
+
+#: includes/order_settings.php:95
+msgid "Import Category ?"
+msgstr ""
+
+#: includes/how_to.php:21
+msgid ""
+"Install the plugin onto your website, navigate to the “Personalised Gift "
+"Supply” plug and hit “Settings” enter the provided username and API key and "
+"click “Verify”, Once the screen says “Validation\n"
+"                Successful” Click “Sync Data” this will sync all products "
+"you have added to your favourites."
+msgstr ""
+
+#: cnc-b2b.php:359
+msgid "Is Order Synchronize with Personalised Gift Supply ?"
+msgstr ""
+
+#: cnc-b2b.php:254
+msgid "List Product"
+msgstr ""
+
+#: includes/how_to.php:10
+msgid ""
+"Make sure you have a trade account open with ourselves and have requested "
+"Wordpress integration, if you haven’t email us on"
+msgstr ""
+
+#: includes/order_settings.php:42
+msgid "Manually Synchronize"
+msgstr ""
+
+#: includes/order_settings.php:186
+msgid "Margin should be less then 99 and greter then 1 or valid Integer"
+msgstr ""
+
+#: includes/order_settings.php:175
+msgid "Margin: "
+msgstr ""
+
+#: includes/order_settings.php:200
+msgid "Maximum RRP :"
+msgstr ""
+
+#: includes/customiser.php:17
+msgid "more than 1"
+msgstr ""
+
+#: includes/faqs.php:35
+msgid ""
+"Not at all, this is automatically collected by our plugin and sent through "
+"to us, when your item sells everything will happen automatically, if any "
+"issues do arise we will contact you."
+msgstr ""
+
+#: includes/order_settings.php:142
+msgid "Note :"
+msgstr ""
+
+#: includes/customiser.php:240
+msgid ""
+"Note: Display is an approximate preview. final product may vary slightly, "
+"although we will notify of any major changes. We don`t allow emojis."
+msgstr ""
+
+#: includes/customiser.php:307
+msgid ""
+"Note: While using a clipart you will not be able use the first two lines of "
+"text."
+msgstr ""
+
+#: includes/how_to.php:15
+msgid ""
+"Once logged into Personalised Gift Supply, navigate around to find any "
+"products you would like to sell on your website, any items you wish to sell "
+"simply click “Add to favourites”\n"
+"                you will see all product information on this page including "
+"price and RRP."
+msgstr ""
+
+#: cnc-b2b.php:373
+msgid "Order Processed Time :"
+msgstr ""
+
+#: includes/order_settings.php:30
+msgid "Order Settings"
+msgstr ""
+
+#: cnc-b2b.php:381
+msgid "Order Shipping Service :"
+msgstr ""
+
+#: cnc-b2b.php:288
+msgid "Order Synchronize"
+msgstr ""
+
+#: includes/order_settings.php:35
+msgid "Order Synchronize Type"
+msgstr ""
+
+#: cnc-b2b.php:365
+msgid "Order Tracking ID :"
+msgstr ""
+
+#: includes/customiser.php:414
+msgid "Personalisation details will be used as submitted"
+msgstr ""
+
+#: includes/customiser.php:14
+msgid "Personalise"
+msgstr ""
+
+#: cnc-b2b.php:91 cnc-b2b.php:92
+msgid "Personalised Gift Supply"
+msgstr ""
+
+#. Name of the plugin
+msgid "Personalised Gift Supply - Listing Tool"
+msgstr ""
+
+#: includes/order_settings.php:113
+msgid "Personalised Products"
+msgstr ""
+
+#: includes/order_settings.php:107
+msgid ""
+"Please check the product ranges that you would like to be displayed on your "
+"website."
+msgstr ""
+
+#: includes/settings.php:151
+msgid "Please contact us on"
+msgstr ""
+
+#: includes/customiser.php:18
+msgid ""
+"Please make sure to press the “ADD TO CART” button above, after entering the "
+"first custom text. Then simply repeat the process for subsequent items."
+msgstr ""
+
+#: includes/order_settings.php:149
+msgid "Pricing ?"
+msgstr ""
+
+#: includes/order_settings.php:84
+msgid "Process Shared Orders"
+msgstr ""
+
+#: cnc-b2b.php:90
+msgid "Product List"
+msgstr ""
+
+#: cnc-b2b.php:286
+msgid "Product Pricing"
+msgstr ""
+
+#: includes/order_settings.php:106
+msgid "Product Ranges"
+msgstr ""
+
+#: cnc-b2b.php:287
+msgid "Product SKU"
+msgstr ""
+
+#: cnc-b2b.php:402
+msgid "Product SKU :"
+msgstr ""
+
+#: cnc-b2b.php:324 cnc-b2b.php:333
+msgid "Profit"
+msgstr ""
+
+#: includes/customiser.php:120
+msgid "Remove Image"
+msgstr ""
+
+#: cnc-b2b.php:300
+msgid "Reseller Pricing"
+msgstr ""
+
+#: cnc-b2b.php:328
+msgid "Sale Price"
+msgstr ""
+
+#: includes/how_to.php:10
+msgid "Sales@Personalisedgiftsupply.com "
+msgstr ""
+
+#: includes/faqs.php:47 includes/faqs.php:84 includes/settings.php:151
+msgid "sales@personalisedgiftsupply.com "
+msgstr ""
+
+#: includes/customiser.php:313 includes/customiser.php:332
+msgid "Select Color"
+msgstr ""
+
+#: includes/order_settings.php:55
+msgid "Select Order Status"
+msgstr ""
+
+#: includes/order_settings.php:158
+msgid "Set my own pricing"
+msgstr ""
+
+#: includes/order_settings.php:151
+msgid ""
+"Set my own pricing - Will initially pull our RRP but you`re then able to "
+"manually set each product to the price you would like"
+msgstr ""
+
+#: includes/settings.php:90
+msgid "Settings"
+msgstr ""
+
+#: includes/how_to.php:10
+msgid "Step 1 – Ensure you have a trade account."
+msgstr ""
+
+#: includes/how_to.php:15
+msgid "Step 2 – Find products you would like to sell."
+msgstr ""
+
+#: includes/how_to.php:21
+msgid "Step 3 – Installing the plugin"
+msgstr ""
+
+#: includes/how_to.php:28
+msgid "Step 4 – Time to list some products."
+msgstr ""
+
+#: includes/how_to.php:35
+msgid "Step 5 – You’re finished!"
+msgstr ""
+
+#: includes/order_settings.php:161
+msgid "Suggested RRP"
+msgstr ""
+
+#: includes/order_settings.php:152
+msgid ""
+"Suggested RRP - This will take use our RRP and continually update the RRP as "
+"products become cheaper or more expensive your RRP will fluctuate up and "
+"down making you roughly a 35% margin on each item."
+msgstr ""
+
+#: includes/order_settings.php:37
+msgid ""
+"Synchronise when order status change will update orders to processed when "
+"they`re dispatched from Personalised Gift Supply"
+msgstr ""
+
+#: includes/order_settings.php:48
+msgid "Synchronize When Order Status Change"
+msgstr ""
+
+#: includes/how_to.php:35
+msgid ""
+"That’s it, now when you go to the product on your website the product will "
+"be for sale and have our customiser installed to enable you customers to get "
+"a live preview of the product they’re purchasing\n"
+"                time to sit back, grab a beer and wait for the sales to come "
+"in!"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"The All-in-one Personalised Gift Supply listing tool, helps in listing "
+"products, with customisers and order processing. The easiest way to get "
+"Personalised Gifts for sale."
+msgstr ""
+
+#: includes/faqs.php:59
+msgid ""
+"The best way is to contact us, providing the customer is asking for 50+ "
+"items we can offer even more competitive rates for you."
+msgstr ""
+
+#: includes/faqs.php:23
+msgid ""
+"There is an option in order settings where you can toggle if you would like "
+"us to mark the order as completed when our side is completed or wait for you "
+"to complete the order on your side."
+msgstr ""
+
+#: cnc-b2b.php:342
+msgid ""
+"These calculations give a rough profit and are based on being VAT registered,"
+" we always recommend doing your own calculations too."
+msgstr ""
+
+#: includes/order_settings.php:36
+msgid ""
+"Use \"manually synchronised\" to sync orders manually with Personalised Gift "
+"Supply, this is used if you want to send all orders at the end of each day."
+msgstr ""
+
+#: includes/customiser.php:96
+msgid "Use your mouse to scale, move & rotate your image"
+msgstr ""
+
+#: includes/settings.php:103
+msgid "Username :"
+msgstr ""
+
+#: includes/settings.php:130
+msgid "Validation Successful"
+msgstr ""
+
+#: includes/order_settings.php:142
+msgid "View Pending Action"
+msgstr ""
+
+#: includes/faqs.php:84
+msgid "we can assist on the best way to get your designs live!"
+msgstr ""
+
+#: includes/how_to.php:3
+msgid ""
+"Welcome to the Personalised Gift Supply Wordpress Plugin, let’s show you how "
+"it works"
+msgstr ""
+
+#: includes/faqs.php:18
+msgid "What happens if I sell one of my products and one of yours?"
+msgstr ""
+
+#: includes/faqs.php:66
+msgid "What happens if you run out of stock?"
+msgstr ""
+
+#: includes/order_settings.php:96
+msgid ""
+"When enabled this will import our recommended categories into your site and "
+"list products into those categories."
+msgstr ""
+
+#: includes/faqs.php:30
+msgid "Will I have to send you the personalisation details through?"
+msgstr ""
+
+#: includes/faqs.php:7
+msgid "Will my order status be updated?"
+msgstr ""
+
+#: includes/faqs.php:12
+msgid ""
+"Yes, once we process your order and it has been dispatched our Plugin will "
+"update WooCommerce and mark the order as completed, unless you ticked the "
+"option to mark orders as completed manually,"
+msgstr ""
+
+#: includes/customiser.php:272
+msgid "Zapf Chancery"
+msgstr ""
